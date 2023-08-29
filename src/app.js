@@ -12,6 +12,6 @@ yesBtn.addEventListener("click", function() {
   noBtn.classList.add("hidden");
   loveMessage.classList.remove("hidden");
   setTimeout(() => {
-    window.location.href = "https://api.whatsapp.com/send?l=pt-BR&phone=5548998443415&text=eu%20te%20amo%2C%20Victor%2C%20voc%C3%AA%20%C3%A9%20o%20meu%20tudo.%20Aceito%20me%20casar%20com%20voc%C3%AA%F0%9F%92%8D%F0%9F%92%9E";
-  }, 3500);
+    window.location.href = "https://api.whatsapp.com/send?l=pt-BR&phone=5548998443415&text=Eu%20tamb%C3%A9m%20te%20amo%2C%20Victor.%20Voc%C3%AA%20%C3%A9%20lindo.";
+  }, 3000);
 });
